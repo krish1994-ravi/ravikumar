@@ -1,0 +1,97 @@
+07/02/2020 12:28:35 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 12:28:35 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 12:30:43 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 12:30:43 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 12:30:46 [main] ERROR com.nt.test.SimpleJdbcCallTest  - No bean named 'loginServi' available
+07/02/2020 12:30:46 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 12:32:15 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 12:32:15 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 12:32:18 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 12:32:18 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 12:32:18 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 12:32:18 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 12:32:23 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 12:32:23 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 12:34:59 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 12:35:6 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 12:35:36 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 12:35:41 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 12:35:41 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 12:35:41 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 12:35:58 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 12:37:8 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 12:37:21 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 12:38:27 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 12:39:4 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 12:39:4 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 12:39:4 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 12:39:24 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 12:41:46 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 12:41:46 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 12:41:49 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 12:41:49 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 12:41:49 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 12:41:49 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 12:41:50 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 12:41:50 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 12:44:30 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 12:44:30 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 12:44:33 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 12:44:33 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 12:44:33 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 12:44:33 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 12:44:33 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 12:44:35 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 12:46:25 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 12:46:25 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 12:46:28 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 12:46:28 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 12:46:28 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 12:46:28 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 12:46:28 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 12:46:30 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 13:09:42 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 13:09:42 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 13:09:43 [main] ERROR com.nt.test.SimpleJdbcCallTest  - IOException parsing XML document from class path resource [com/nt/cfgs/applicationContext.xml]; nested exception is java.io.FileNotFoundException: class path resource [com/nt/cfgs/applicationContext.xml] cannot be opened because it does not exist
+07/02/2020 13:09:43 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 13:11:47 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 13:11:47 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 13:11:50 [main] ERROR com.nt.test.SimpleJdbcCallTest  - Error creating bean with name 'loginService': Unsatisfied dependency expressed through field 'dao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.nt.dao.LoginDAO' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+07/02/2020 13:11:50 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 13:14:31 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 13:14:39 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 13:15:29 [main] ERROR com.nt.test.SimpleJdbcCallTest  - Error creating bean with name 'loginService': Unsatisfied dependency expressed through field 'dao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.nt.dao.LoginDAO' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+07/02/2020 13:17:22 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 13:18:36 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 13:18:42 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 13:19:42 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 13:19:54 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 13:20:2 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 13:20:3 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 13:20:3 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 13:20:35 [main] ERROR com.nt.test.SimpleJdbcCallTest  - internal db problem
+07/02/2020 13:21:18 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 13:21:26 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 13:22:4 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 13:22:8 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 13:22:8 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 13:22:8 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 13:22:8 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 13:22:33 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 15:14:14 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 15:14:14 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 15:14:17 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 15:14:17 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 15:14:17 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 15:14:17 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 15:14:17 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 15:14:20 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
+07/02/2020 22:45:38 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method statred
+07/02/2020 22:45:50 [main] INFO  com.nt.test.SimpleJdbcCallTest  - container is created
+07/02/2020 22:47:15 [main] INFO  com.nt.test.SimpleJdbcCallTest  - business method execute
+07/02/2020 22:47:29 [main] INFO  com.nt.service.LoginMgmtServiceImpl  - service validate method started
+07/02/2020 22:47:34 [main] DEBUG com.nt.dao.LoginDAOImpl  -  dao register method is started
+07/02/2020 22:47:46 [main] INFO  com.nt.dao.LoginDAOImpl  - procedure is set
+07/02/2020 22:48:1 [main] DEBUG com.nt.dao.LoginDAOImpl  - dao register method ended
+07/02/2020 22:48:31 [main] ERROR com.nt.test.SimpleJdbcCallTest  - internal db problem
+07/02/2020 22:48:32 [main] DEBUG com.nt.test.SimpleJdbcCallTest  - main method is ended
