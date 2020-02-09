@@ -1,0 +1,55 @@
+08/02/2020 12:14:30 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+08/02/2020 12:14:30 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+08/02/2020 12:14:34 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+08/02/2020 12:17:45 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+08/02/2020 12:17:45 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+08/02/2020 12:17:47 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+08/02/2020 12:18:43 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+08/02/2020 12:18:43 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+08/02/2020 12:18:45 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+08/02/2020 12:18:46 [main] ERROR com.nt.test.MappedSQLOperationsTest  - Error creating bean with name 'employeeDAOImpl' defined in file [E:\workspace\spring-ext1\DAOProj12-MappingSqlOperations-SubClasses\bin\main\com\nt\dao\EmployeeDAOImpl.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.nt.dao.EmployeeDAOImpl]: Constructor threw exception; nested exception is org.springframework.dao.InvalidDataAccessApiUsageException: Property 'sql' is required
+08/02/2020 12:18:46 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method ended
+08/02/2020 12:20:19 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+08/02/2020 12:20:19 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+08/02/2020 12:21:0 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+08/02/2020 12:21:8 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+08/02/2020 12:21:30 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+08/02/2020 12:23:45 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+08/02/2020 12:23:45 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+08/02/2020 12:23:48 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+08/02/2020 12:23:48 [main] ERROR com.nt.test.MappedSQLOperationsTest  - Error creating bean with name 'employeeDAOImpl' defined in file [E:\workspace\spring-ext1\DAOProj12-MappingSqlOperations-SubClasses\bin\main\com\nt\dao\EmployeeDAOImpl.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.nt.dao.EmployeeDAOImpl]: Constructor threw exception; nested exception is org.springframework.dao.InvalidDataAccessApiUsageException: 0 parameters were supplied, but 1 in parameters were declared in class [com.nt.dao.EmployeeDAOImpl$SelectEmployeeById]
+08/02/2020 12:23:48 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method ended
+08/02/2020 12:24:41 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+08/02/2020 12:24:41 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+08/02/2020 12:24:44 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+08/02/2020 12:24:44 [main] INFO  com.nt.test.MappedSQLOperationsTest  - service method is invoked
+08/02/2020 12:24:44 [main] DEBUG com.nt.dao.EmployeeDAOImpl  - service method started
+08/02/2020 12:24:44 [main] INFO  com.nt.dao.EmployeeDAOImpl  - dao methos is perform db operations
+08/02/2020 12:24:46 [main] DEBUG com.nt.dao.EmployeeDAOImpl  - service method ended
+08/02/2020 12:24:46 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method ended
+08/02/2020 12:57:0 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+09/02/2020 12:00:25 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+09/02/2020 12:00:25 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+09/02/2020 12:00:33 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+09/02/2020 12:00:33 [main] INFO  com.nt.test.MappedSQLOperationsTest  - service method is invoked
+09/02/2020 12:00:33 [main] DEBUG com.nt.dao.EmployeeDAOImpl  - service method started
+09/02/2020 12:00:33 [main] INFO  com.nt.dao.EmployeeDAOImpl  - dao methos is perform db operations
+09/02/2020 12:00:49 [main] DEBUG com.nt.dao.EmployeeDAOImpl  - service method ended
+09/02/2020 12:00:49 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method ended
+09/02/2020 12:02:37 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+09/02/2020 12:02:37 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+09/02/2020 12:02:40 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+09/02/2020 12:02:40 [main] INFO  com.nt.test.MappedSQLOperationsTest  - service method is invoked
+09/02/2020 12:02:40 [main] DEBUG com.nt.dao.EmployeeDAOImpl  - service method started
+09/02/2020 12:02:40 [main] INFO  com.nt.dao.EmployeeDAOImpl  - dao methos is perform db operations
+09/02/2020 12:02:42 [main] ERROR com.nt.test.MappedSQLOperationsTest  - Exception occured in database
+09/02/2020 12:02:42 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method ended
+09/02/2020 12:04:33 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+09/02/2020 12:04:39 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+09/02/2020 12:05:1 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
+09/02/2020 12:05:26 [main] INFO  com.nt.test.MappedSQLOperationsTest  - service method is invoked
+09/02/2020 12:05:31 [main] DEBUG com.nt.dao.EmployeeDAOImpl  - service method started
+09/02/2020 12:05:31 [main] INFO  com.nt.dao.EmployeeDAOImpl  - dao methos is perform db operations
+09/02/2020 12:06:37 [main] INFO  com.nt.test.MappedSQLOperationsTest  - main method started
+09/02/2020 12:06:41 [main] DEBUG com.nt.test.MappedSQLOperationsTest  - container is created
+09/02/2020 12:07:2 [main] INFO  com.nt.dao.EmployeeDAOImpl  - EmployeeDAOImpl.EmployeeDAOImpl()-->constrctor with DataSource argument
